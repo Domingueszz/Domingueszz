@@ -1,6 +1,6 @@
 ## Olá, eu sou o Pablo Domingues!👋
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: center;">
   <div>
     <picture>
       <source
@@ -14,7 +14,8 @@
       <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
     </picture>
   </div>
-  <div style="margin-left: 20px;">
+  
+  <div style="margin-left: 20px; display: flex; align-items: center;">
     <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">
     <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
