@@ -1,7 +1,9 @@
-## Olá, eu sou o Pablo Domingues!👋
-
+<div align="center"> 
+  
+# Olá, eu sou o Pablo Domingues!👋
 
 <table>
+  <br>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domingueszz&layout=compact&theme=dracula" /></td>
     <td> 
@@ -24,4 +26,5 @@
 <div> 
   <a href="mailto:pablo.domsanches@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pablo-sanches-a3a691304/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 </div>
