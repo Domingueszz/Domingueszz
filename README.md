@@ -8,7 +8,7 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domingueszz&layout=compact&theme=dracula" /></td>
     <td> 
       <div>
-  <h3 align="left">──── Languages and Tools: ────</h3>
+  <h3 align="left">──── Languages and Tools: ─────</h3>
   <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
