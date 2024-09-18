@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<img align="center" alt="" src="./src/channel.gif" style="height: 350px; width: 1050px;">
+<img align="center" alt="" src="./src/channel.gif" style="height: 320px; width: 1020px;">
 
 
 #
@@ -56,9 +56,6 @@
   </a>
 </div>
 
-
-
-# 
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Domingueszz/Domingueszz/output/github-contribution-grid-snake-dark.svg">
