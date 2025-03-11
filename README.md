@@ -9,7 +9,8 @@
 
 #
 
-<p align="center">Recém formado como técnico em Mecatrônica(ETEC), atualmente venho estagiando na 2RP Net e cursando minha graduação em Superior de Tecnologia em Análise e Desenvolvimentos de Sistemas(SENAI). Tenho uma abordagem meticulosa para cada tarefa, destacando minha organização e compromisso. Assim como, a paixão por aprender e crescer continuamente, buscando excelência em cada projeto.
+<p align="center">Formado como técnico em Mecatrônica (ETEC), atualmente curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (SENAI). Tenho experiência como estagiário na 2RP Net, onde venho aprimorando minhas habilidades em desenvolvimento e análise de sistemas. 
+Sou uma pessoa organizada e comprometida, sempre buscando a excelência em cada projeto. Minha paixão por aprendizado contínuo me motiva a explorar novas tecnologias e aprimorar minhas habilidades na área de desenvolvimento de software.
   
 #
 
