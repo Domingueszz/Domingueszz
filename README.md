@@ -13,9 +13,18 @@ Sou uma pessoa organizada e comprometida, sempre buscando a excelência em cada 
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=09FE00&color:0000)](mailto:pablo.domsanches@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=09FE00&color:FFF)](https://www.linkedin.com/in/pablo-sanches-a3a691304/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=09FE00&color:FFF)](https://www.instagram.com/paablo.vd/)
+<a href="mailto:pablo.domsanches@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=09FE00&color:0000" alt="E-mail">
+</a>
+
+<a href="https://www.linkedin.com/in/pablo-sanches-a3a691304/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=09FE00&color:FFF" alt="LinkedIn">
+</a>
+
+<a href="https://www.instagram.com/paablo.vd/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=09FE00&color:FFF" alt="Instagram">
+</a>
+
 
 
 <h3 align="left">My Stack ~</h3>
