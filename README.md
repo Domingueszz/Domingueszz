@@ -9,7 +9,6 @@ Sou uma pessoa organizada e comprometida, sempre buscando a excelência em cada 
 
 #
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
 
 <h3 align="left">Connect with me!</h3>
 
