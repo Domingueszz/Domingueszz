@@ -9,12 +9,23 @@ Sou uma pessoa organizada e comprometida, sempre buscando a excelência em cada 
 
 #
 
-
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=09FE00&color=000000)](mailto:pablo.domsanches@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=09FE00&color=000000)](https://www.linkedin.com/in/pablo-sanches-a3a691304/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=09FE00&color=000000)](https://www.instagram.com/paablo.vd/)
+<p align="left">
+  <a href="mailto:pablo.domsanches@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/30/09FE00/new-post.png" alt="email" style="margin-right: 10px;"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/pablo-sanches-a3a691304/">
+    <img src="https://img.icons8.com/ios-filled/30/09FE00/linkedin.png" alt="linkedin" style="margin-right: 10px;"/>
+  </a>
+  
+  <a href="https://www.instagram.com/paablo.vd/">
+    <img src="https://img.icons8.com/ios-filled/30/09FE00/instagram-new.png" alt="instagram"/>
+  </a>
+</p>
+
+#
 
 <h3 align="left">My Stack ~</h3>
 
@@ -51,7 +62,7 @@ Sou uma pessoa organizada e comprometida, sempre buscando a excelência em cada 
   />
 </p>
 
-*
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Domingueszz/Domingueszz/output/github-contribution-grid-snake-dark.svg" />
