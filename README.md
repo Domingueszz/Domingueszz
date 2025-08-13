@@ -51,18 +51,16 @@ Sou uma pessoa organizada e comprometida, sempre buscando a excelência em cada 
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Domingueszz&show_icons=true&count_private=true&hide_title=true&hide=issues&theme=jolly&bg_color=000000&title_color=09FE00&text_color=FFFFFF&icon_color=09FE00&border_color=09FE00" 
+    src="https://github-readme-stats.vercel.app/api?username=Domingueszz&show_icons=true&count_private=true&hide_title=true&hide=issues&theme=jolly&bg_color=000000&title_color=09FE00&text_color=FFFFFF&icon_color=09FE00&border_color=09FE00&cache_seconds=1800" 
     alt="GitHub Stats" 
     height="150px"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domingueszz&layout=compact&theme=radical&card_width=400&langs_count=10&bg_color=00000000&border_color=09FE00&title_color=00FF00&icon_color=00FF00" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domingueszz&layout=compact&theme=radical&card_width=400&langs_count=10&bg_color=00000000&border_color=09FE00&title_color=00FF00&icon_color=00FF00&count_private=true&cache_seconds=1800" 
     alt="Top Langs"
     height="150px"
   />
 </p>
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Domingueszz/Domingueszz/output/github-contribution-grid-snake-dark.svg" />
