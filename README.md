@@ -65,7 +65,7 @@ Sou uma pessoa organizada e comprometida, sempre buscando a excelência em cada 
     height="150px"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domingueszz&layout=compact&theme=radical&card_width=400&langs_count=10&border_color=09FE00&title_color=00FF00&icon_color=00FF00&count_private=true&cache_seconds=1800" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domingueszz&layout=compact&theme=radical&card_width=400&langs_count=10&bg_color=00000000&border_color=09FE00&title_color=00FF00&icon_color=00FF00&count_private=true&cache_seconds=1800" 
     alt="Top Langs"
     height="150px"
   />
