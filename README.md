@@ -23,6 +23,10 @@ Sou uma pessoa organizada e comprometida, sempre buscando a excelência em cada 
   <a href="https://www.instagram.com/paablo.vd/">
     <img src="https://img.icons8.com/ios-filled/30/09FE00/instagram-new.png" alt="instagram"/>
   </a>
+
+  <a href="https://portfolio-mocha-beta-28.vercel.app/">
+    <img src="https://img.icons8.com/ios-filled/30/09FE00/portfolio.png" alt="portfolio" style="margin-right: 10px;"/>
+  </a>
 </p>
 
 #
